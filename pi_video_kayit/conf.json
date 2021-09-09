@@ -1,0 +1,16 @@
+{
+  "show_video": true,
+  "use_ip_cam": false,
+  "ip_cam_addr": "/home/pi/proje/kayitlar",
+  "create_image": true,
+  "min_upload_seconds": 5,
+  "min_motion_frames": 12,
+  "camera_warmup_time": 2.5,
+  "delta_thresh": 5,
+  "resolution": [640, 480],
+  "fps": 16,
+  "min_area": 500,
+  "userDir": "/home/pi/proje/kayitlar",
+  "resizeWidth": 500,
+  "nonMotionTimer": 36
+}
